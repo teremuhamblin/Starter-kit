@@ -1,18 +1,181 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+########################################
+#   PROJET — STANDARD MILITAIRE GLOBAL
+#   Objectif : compatibilité totale
+#   Règle : aucun fichier inutile
+########################################
 
-# Other files and folders
-.settings/
+###############
+# SYSTÈME
+###############
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+###############
+# LOGS & TEMP
+###############
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.pid
+*.seed
+*.lock
+*.cache
+*.temp
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+###############
+# SECRETS
+###############
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.p12
+*.secret
+*.token
+secrets/
+credentials/
+
+###############
+# DÉPENDANCES (toutes stacks)
+###############
+node_modules/
+vendor/
+packages/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+###############
+# BUILD / DIST / ARTEFACTS
+###############
+dist/
+build/
+out/
+target/
+bin/
+obj/
+lib/
+coverage/
+*.coverage
+*.gcda
+*.gcno
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+*.dylib
+
+###############
+# ÉDITEURS
+###############
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+###############
+# PYTHON
+###############
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+
+###############
+# NODE / JS
+###############
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+###############
+# RUST
+###############
+target/
+Cargo.lock
+
+###############
+# GO
+###############
+go.sum
+*.test
+
+###############
+# JAVA
+###############
+*.class
+*.jar
+*.war
+*.ear
+*.jmod
+
+###############
+# C / C++
+###############
+*.out
+*.a
+*.la
+
+###############
+# PHP / COMPOSER
+###############
+composer.lock
+
+###############
+# RUBY
+###############
+.bundle/
+vendor/bundle/
+
+###############
+# DOCKER
+###############
+docker-data/
+docker-compose.override.yml
+*.tar
+
+###############
+# TESTS
+###############
+coverage/
+test-results/
+.nyc_output/
+junit.xml
+
+###############
+# DOCUMENTATION
+###############
+*.aux
+*.out
+*.toc
+*.pdf
+_site/
+book/
+docs/_build/
+
+###############
+# ARCHIVES
+###############
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+########################################
+#   FIN — STANDARD MILITAIRE GLOBAL
+#   Discipline : dépôt propre et stable
+########################################
