@@ -1,17 +1,19 @@
 ---
 
 <p align="center">
-🐺 README.md - The MadDoG.tmdg 
+<strong> 🐺 README.md </strong>
+<p align="center">
+The MadDoG.tmdg 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Compilé-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/IA-Active-8A2BE2?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Dépot-Stable-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-8A2BE2?style=for-the-badge&logo=openai" />
   
 ---
 
 <p align="center">
-📜 Licence : The Unlicence
+📜 Licence : License MIT
 </p>
 
 ---
@@ -21,8 +23,12 @@
 </p>
 
 <p align="center">
-  <strong> 🐺 The MadDoG — 19xx.</strong>
+  <light> 🐺 The MadDoG — 2001</light>
 </p>
 
 ---
+
+<p align="center">
+────── 🐺 ──────
+</p>
 
