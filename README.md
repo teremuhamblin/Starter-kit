@@ -20,7 +20,6 @@
 ---
 
 2. 🧱 Architecture
-- Exemple de structure :
 
 - 📂 src (code source)
 - 📂 assets (ressources)
