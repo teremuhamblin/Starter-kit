@@ -8,13 +8,8 @@ Projet open‑source minimaliste, conçu pour être clair, léger et accessible.
 ## Installation 
 
 Clonez le dépôt et utilisez-le librement.
-```bash
 
-git clone https://github.com/USERNAME/REPO
-
----
-
-🐺 The MadDoG Project
+🐺 Project
 Projet open‑source minimaliste, conçu pour être clair, léger et accessible.
 
 ---
