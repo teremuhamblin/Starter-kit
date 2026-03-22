@@ -25,8 +25,6 @@ The MadDoG.tmdg
   <light> 🐺 The MadDoG — 2001</light>
 </p>
 
----
-
 <p align="center">
 ────── 🐺 ──────
 </p>
