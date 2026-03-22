@@ -1,9 +1,11 @@
+---
+
 <p align="center">
-<strong> 🐺 README.md </strong>
+<strong> 🐺 The MadDoG.tmdg </strong>
 </p>
 
 ---
----
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dépot-Stable-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white" />
