@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-<strong> 🐺 The MadDoG.tmdg </strong>
+<strong> The MadDoG.tmdg </strong>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <light> 🐺 The MadDoG — 2001</light>
+The MadDoG — 2001
 </p>
 
 <p align="center">
