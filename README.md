@@ -12,7 +12,7 @@ The MadDoG.tmdg
 ---
 
 <p align="center">
-📜 Licence : License MIT
+📜 Licence : MIT
 </p>
 
 ---
