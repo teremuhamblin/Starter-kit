@@ -1,5 +1,3 @@
----
-
 <p align="center">
 <strong> 🐺 README.md </strong>
 <p align="center">
