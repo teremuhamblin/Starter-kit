@@ -2,6 +2,9 @@
 <strong> 🐺 README.md </strong>
 </p>
 
+---
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Dépot-Stable-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Version-1.0.0-8A2BE2?style=for-the-badge&logo=openai" />
