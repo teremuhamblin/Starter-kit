@@ -1,7 +1,5 @@
 <p align="center">
 <strong> 🐺 README.md </strong>
-<p align="center">
-The MadDoG.tmdg 
 </p>
 
 <p align="center">
