@@ -1,5 +1,5 @@
 ########################################
-#   PROJET — STANDARD MILITAIRE GLOBAL
+#   PROJET — STANDARD GLOBAL
 #   Objectif : compatibilité totale
 #   Règle : aucun fichier inutile
 ########################################
@@ -176,6 +176,6 @@ docs/_build/
 *.7z
 
 ########################################
-#   FIN — STANDARD MILITAIRE GLOBAL
+#   FIN — STANDARD GLOBAL
 #   Discipline : dépôt propre et stable
 ########################################
