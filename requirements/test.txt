@@ -1,0 +1,8 @@
+requirements/ test.txt
+Dépendances pour les tests
+
+-r base.txt
+
+pytest
+pytest-cov
+pytest-mock
