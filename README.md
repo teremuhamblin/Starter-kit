@@ -56,7 +56,7 @@ python3 setup.py
 <br/>
 
 🍏 Installation sur macOS (M1/M2/M3)
-Utilisation recommandée : environnement virtuel Python.
+Utilisation recommandée : environnement virtuel Python
 `bash
 python3 -m venv path/to/venv
 source path/to/venv/bin/activate
