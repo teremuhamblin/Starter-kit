@@ -1,0 +1,7 @@
+requirements/ all.txt
+Fichier qui regroupe tout (pratique pour CI/CD)
+
+-r base.txt
+-r dev.txt
+-r test.txt
+-r docs.txt
