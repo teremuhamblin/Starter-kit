@@ -1,0 +1,5 @@
+requirements/ docs.txt
+Dépendances pour la documentation
+
+mkdocs
+mkdocs-material
