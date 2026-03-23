@@ -5,12 +5,11 @@
 
 <br/>
 
-<p align="center">
 ![Auteur](https://img.shields.io/badge/Auteur-The%20MadDoG.tmdg-228B22?style=for-the-badge&logo=github&logoColor=white)
 ![Création](https://img.shields.io/badge/Création-Indépendante-228B22?style=for-the-badge&logo=gitbook&logoColor=white)
-![Conception](https://img.shields.io/badge/Conception-Numérique-228B22?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Technologie](https://img.shields.io/badge/Technologie-Ingénierie-228B22?style=for-the-badge&logo=hammer&logoColor=white)
-![Outils](https://img.shields.io/badge/Suite%20d'Outils-Automatisation%20-228B22?style=for-the-badge&logo=terminal&logoColor=white)</p>
+![Conception](https://img.shields.io/badge/Conception-Numérique-228B22?style=for-the-badge&logo=gitbook&logoColor=white)
+![Technologie](https://img.shields.io/badge/Technologie-Ingénierie-228B22?style=for-the-badge&logo=gitbook&logoColor=white)
+![Outils](https://img.shields.io/badge/Suite%20d'Outils-Automatisation%20-228B22?style=for-the-badge&logo=gitbook&logoColor=white)
 
 <br/>
 
