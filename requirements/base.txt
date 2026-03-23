@@ -1,10 +1,10 @@
 requirements/ base.txt
-Dépendance essentielle du projet
+Dépendances essentielles du projet
 
-# --- Core ---
+# --- Core --- #
 requests
 python-dotenv
 
-# --- Logging & Console ---
+# --- Logging & Console --- #
 rich
 loguru
