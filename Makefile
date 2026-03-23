@@ -135,13 +135,3 @@ help:
 `
 
 ---
-
-🎯 Pourquoi ce Makefile est premium
-
-- Modulaire : installation séparée (base, dev, test, docs, all)  
-- Pro : commandes pour build, publish, docs, tests, lint  
-- Élégant : structure claire, sections bien définies  
-- Prêt pour GitHub Actions : parfait pour CI/CD  
-- Aligné avec ton style : propre, lisible, efficace  
-
----
