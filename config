@@ -1,0 +1,101 @@
+---
+
+🧭 Les fichiers liés à Git (comme .gitignore et .gitattributes)
+
+Voici les catégories et les fichiers clés que l’on retrouve dans un projet.
+
+---
+
+📌 1. Fichiers de configuration du dépôt
+
+| Fichier | Rôle |
+|--------|------|
+| .gitignore | Ignore des fichiers/dossiers dans le repo |
+| .gitattributes | Définit les attributs Git (EOL, diff, merge, LFS…) |
+| .gitmodules | Déclare les sous‑modules Git |
+| .gitmessage | Template pour les messages de commit |
+| .git-blame-ignore-revs | Liste de commits ignorés dans git blame (refactor, formatage…) |
+| .mailmap | Normalise les noms/emails des auteurs dans l’historique |
+
+---
+
+⚙️ 2. Configuration locale (non versionnée)
+
+Ces fichiers sont dans .git/ et ne sont pas commités.
+
+| Fichier | Rôle |
+|--------|------|
+| .git/config | Config locale du repo |
+| .git/hooks/* | Scripts exécutés par Git (pre-commit, pre-push…) |
+| .git/info/exclude | Ignore local (comme .gitignore mais non versionné) |
+
+---
+
+🪝 3. Hooks Git (automatisation)
+
+Dans .git/hooks/ :
+
+- pre-commit  
+- prepare-commit-msg  
+- commit-msg  
+- pre-push  
+- post-merge  
+- post-checkout  
+- etc.
+
+Tu peux les écrire en Bash, Python, ou même PowerShell selon ton stack.
+
+---
+
+📦 4. Git LFS (si utilisé)
+
+| Fichier | Rôle |
+|--------|------|
+| .gitattributes | Active LFS sur certains fichiers |
+| .lfsconfig | Configuration LFS du repo |
+
+---
+
+🧪 5. Intégration CI/CD (souvent liés au repo Git)
+
+Même si ce n’est pas “Git pur”, ils font partie de l’écosystème :
+
+- .github/workflows/*.yml (GitHub Actions)  
+- .gitlab-ci.yml  
+- .circleci/config.yml  
+- .azure-pipelines.yml  
+
+---
+
+🧱 6. Fichiers de contrôle du projet (souvent ignorés via .gitignore)
+
+- .env  
+- .env.local  
+- .pytest_cache/  
+- .mypy_cache/  
+- .ruff_cache/  
+- .vscode/  
+- .idea/  
+
+---
+
+🎨 7. Fichiers que tu peux ajouter pour ton starter kit premium
+
+Vu ton style, voici ceux qui s’intègrent parfaitement :
+
+✔ .gitmessage
+Template premium pour commits structurés.
+
+✔ .git-blame-ignore-revs
+Pour ignorer les commits de refactor/formatage (super utile avec Black/Ruff).
+
+✔ .mailmap
+Pour un historique propre si tu collabores ou changes d’email.
+
+✔ .git/hooks/pre-commit
+Automatisation : lint, format, tests rapides.
+
+✔ .git/hooks/prepare-commit-msg
+Pré-remplir les commits avec ton style branding.
+
+---
