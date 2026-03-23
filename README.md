@@ -20,13 +20,13 @@ Ensemble d’outils et de modules conçus pour accompagner mes projets en inform
 - environnements d’apprentissage et de test.
 
 <p align="center">
-Ce dépôt centralise mes créations, mes expérimentations et mes frameworks personnels.  
-Il s’agit d’un projet open-source, évolutif, et pensé pour être utilisé, étudié ou amélioré.</p>
+Ce dépôt centralise mes créations, mes expérimentations et mes frameworks personnels :
+- Il s’agit d’un projet open-source, évolutif, et pensé pour être utilisé, étudié ou amélioré.</p>
 
 <br/>
 
-### ⚠️ Avertissement éthique  
-Tous les outils liés à la cybersécurité présents dans ce projet sont destinés exclusivement à l’apprentissage, à la recherche et aux tests autorisés.  
+### ⚠️ Avertissement éthique
+Tous les outils liés à la cybersécurité présents dans ce projet sont destinés exclusivement à l’apprentissage, à la recherche et aux tests autorisés :
 - Aucune utilisation illégale ou non consentie n’est tolérée.
 
 <br/>
@@ -48,17 +48,18 @@ Tous les outils liés à la cybersécurité présents dans ce projet sont destin
 
 <br/>
 
-### 🚀 Installation via requirements.txt
+### 🚀 Installation
+- via requirements.txt
 bash
 - pip3 install -r requirements.txt
 - python3 setup.py
 
 <br/>
 
-### 🍏 Installation sur macOS (M1/M2/M3 utilisation recommandée : environnement virtuel Python)
+### 🍏 Installation sur macOS (M1/M2/M3 environnement virtuel Python)
 bash
-- python3 -m venv path/to/venv
-source path/to/venv/bin/activate
+- python3 -m venv path/ to/ venv
+source path/ to/ venv/ bin/ activate
 - python3 -m pip install -r requirements.txt
 - sudo python3 setup.py
 
@@ -68,10 +69,7 @@ source path/to/venv/bin/activate
 bash
 - sudo apt update
 - sudo apt install python3 python3-pip git -y
-
-Puis cloner le projet
-- git clone https://github.com/<ton-user>/The-MadDoG.tmdg.git
-- cd The-MadDoG.tmdg
+- puis cloner le projet
 
 <br/>
 
@@ -89,9 +87,7 @@ Une documentation complète est en cours de rédaction et sera disponible dans l
 `
 /docs
 `
-
-<p align="center">
-Des guides d’utilisation, exemples et démonstrations seront ajoutés progressivement.</p>
+- Des guides d’utilisation, exemples et démonstrations seront ajoutés progressivement.
 
 <br/>
 
