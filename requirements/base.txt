@@ -1,0 +1,7 @@
+# --- Core ---
+requests
+python-dotenv
+
+# --- Logging & Console ---
+rich
+loguru
