@@ -1,0 +1,4 @@
+requirements.txt (à la racine)
+Fichier principal utilisé par défaut 
+
+-r requirements/base.txt
