@@ -11,8 +11,8 @@ Cyber & Code Engineering Toolkit</p>
 
 <br/>
 
-🎯 Description : 
-Ensemble d’outils et de modules conçus pour accompagner mes projets en informatique générale :
+🎯 Description
+### Ensemble d’outils et de modules conçus pour accompagner mes projets en informatique générale :
 - automatisation de tâches, développement d’outils personnalisés, scripts d’analyse,  
 - prototypes logiciels, expérimentations en cybersécurité éthique,  
 - environnements d’apprentissage et de test.
