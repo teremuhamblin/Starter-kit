@@ -20,6 +20,8 @@ Cyber & Code Engineering Toolkit</p>
 Ce dépôt centralise mes créations, mes expérimentations et mes frameworks personnels.  
 Il s’agit d’un projet open-source, évolutif, et pensé pour être utilisé, étudié ou amélioré.
 
+<br/>
+
 ⚠️ Avertissement éthique  
 ### Tous les outils liés à la cybersécurité présents dans ce projet sont destinés exclusivement à l’apprentissage, à la recherche et aux tests autorisés.  
 - Aucune utilisation illégale ou non consentie n’est tolérée.
