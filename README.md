@@ -67,7 +67,7 @@ bash
 - sudo apt update
 - sudo apt install python3 python3-pip git -y
 
-Puis cloner le projet :
+Puis cloner le projet
 bash
 - git clone https://github.com/<ton-user>/The-MadDoG.tmdg.git
 - cd The-MadDoG.tmdg
