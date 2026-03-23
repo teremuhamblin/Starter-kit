@@ -105,7 +105,7 @@ Tu peux ouvrir une issue pour :
 Le projet est distribué sous licence open-source.  
 Voir :  
 `
-/LICENSE
+/LICENSE.md
 `
 
 <br/>
