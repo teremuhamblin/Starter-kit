@@ -1,7 +1,7 @@
 <p align="center">
 🐺 The MadDoG.tmdg</p>
-<p align="center">
-Cyber & Code Engineering Toolkit</p>
+
+<p align="center">Cyber & Code Engineering Toolkit</p>
 
 <br/>
 
@@ -11,8 +11,8 @@ Cyber & Code Engineering Toolkit</p>
 
 <br/>
 
-🎯 Description
-### Ensemble d’outils et de modules conçus pour accompagner mes projets en informatique générale :
+### 🎯 Description
+Ensemble d’outils et de modules conçus pour accompagner mes projets en informatique générale :
 - automatisation de tâches, développement d’outils personnalisés, scripts d’analyse,  
 - prototypes logiciels, expérimentations en cybersécurité éthique,  
 - environnements d’apprentissage et de test.
@@ -23,13 +23,13 @@ Il s’agit d’un projet open-source, évolutif, et pensé pour être utilisé,
 
 <br/>
 
-⚠️ Avertissement éthique  
+### ⚠️ Avertissement éthique  
 Tous les outils liés à la cybersécurité présents dans ce projet sont destinés exclusivement à l’apprentissage, à la recherche et aux tests autorisés.  
 - Aucune utilisation illégale ou non consentie n’est tolérée.
 
 <br/>
 
-🧩 Fonctionnalités principales
+### 🧩 Fonctionnalités principales
 - 🔧 Scripts d’automatisation (Python, Bash, PowerShell)  
 - 🛠️ Modules d’ingénierie logicielle  
 - 🐍 Outils Python polyvalents  
@@ -39,22 +39,22 @@ Tous les outils liés à la cybersécurité présents dans ce projet sont destin
 
 <br/>
 
-🖥️ Plateformes supportées
+### 🖥️ Plateformes supportées
 - Linux  
 - Windows (via WSL/WSL2 ou environnement natif selon les modules)  
 - macOS (selon compatibilité Python)
 
 <br/>
 
-🚀 Installation via requirements.txt
-### bash
+### 🚀 Installation via requirements.txt
+bash
 - pip3 install -r requirements.txt
 - python3 setup.py
 
 <br/>
 
-🍏 Installation sur macOS (M1/M2/M3 utilisation recommandée : environnement virtuel Python)
-### bash
+### 🍏 Installation sur macOS (M1/M2/M3 utilisation recommandée : environnement virtuel Python)
+bash
 - python3 -m venv path/to/venv
 source path/to/venv/bin/activate
 - python3 -m pip install -r requirements.txt
@@ -62,23 +62,20 @@ source path/to/venv/bin/activate
 
 <br/>
 
-🪟 Installation sous Windows (WSL/WSL2)
-### bash
+### 🪟 Installation sous Windows (WSL/WSL2)
+bash
 - sudo apt update
 - sudo apt install python3 python3-pip git -y
 
 Puis cloner le projet :
-### bash
+bash
 - git clone https://github.com/<ton-user>/The-MadDoG.tmdg.git
 - cd The-MadDoG.tmdg
-- pip3 install -r requirements.txt
-- python3 setup.py
-
 
 <br/>
 
-🐧 Installation sous Linux
-### bash
+### 🐧 Installation sous Linux
+bash
 - git clone https://github.com/<ton-user>/The-MadDoG.tmdg.git
 - cd The-MadDoG.tmdg
 - pip3 install -r requirements.txt
@@ -86,7 +83,7 @@ Puis cloner le projet :
 
 <br/>
 
-📘 Documentation & Tutoriels
+### 📘 Documentation & Tutoriels
 Une documentation complète est en cours de rédaction et sera disponible dans le dossier :  
 `
 /docs
@@ -97,7 +94,7 @@ Des guides d’utilisation, exemples et démonstrations seront ajoutés progress
 
 <br/>
 
-🐞 Bugs & Améliorations
+### 🐞 Bugs & Améliorations
 Tu peux ouvrir une issue pour :  
 - signaler un bug,  
 - proposer une amélioration,  
@@ -107,7 +104,7 @@ Tu peux ouvrir une issue pour :
 
 <br/>
 
-📜 Licence
+### 📜 Licence
 Le projet est distribué sous licence open-source.  
 Voir :  
 `
