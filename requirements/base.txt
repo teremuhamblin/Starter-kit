@@ -1,3 +1,6 @@
+requirements/ base.txt
+Dépendance essentielle du projet
+
 # --- Core ---
 requests
 python-dotenv
