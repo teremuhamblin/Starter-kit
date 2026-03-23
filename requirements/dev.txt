@@ -1,9 +1,9 @@
 requirements/ dev.txt
-Dépendance pour le developpement
+Dépendances pour le developpement
 
 -r base.txt
 
-# --- Dev Tools ---
+# --- Dev Tools --- #
 black
 flake8
 mypy
