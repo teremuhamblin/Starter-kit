@@ -1,0 +1,10 @@
+requirements/ dev.txt
+Dépendance pour le developpement
+
+-r base.txt
+
+# --- Dev Tools ---
+black
+flake8
+mypy
+isort
