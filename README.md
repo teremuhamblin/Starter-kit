@@ -21,8 +21,8 @@ Ce dépôt centralise mes créations, mes expérimentations et mes frameworks pe
 Il s’agit d’un projet open-source, évolutif, et pensé pour être utilisé, étudié ou amélioré.
 
 ⚠️ Avertissement éthique  
-Tous les outils liés à la cybersécurité présents dans ce projet sont destinés exclusivement à l’apprentissage, à la recherche et aux tests autorisés.  
-Aucune utilisation illégale ou non consentie n’est tolérée.
+### Tous les outils liés à la cybersécurité présents dans ce projet sont destinés exclusivement à l’apprentissage, à la recherche et aux tests autorisés.  
+- Aucune utilisation illégale ou non consentie n’est tolérée.
 
 <br/>
 
@@ -55,7 +55,6 @@ python3 setup.py
 
 🍏 Installation sur macOS (M1/M2/M3)
 Utilisation recommandée : environnement virtuel Python.
-
 `bash
 python3 -m venv path/to/venv
 source path/to/venv/bin/activate
@@ -72,7 +71,6 @@ sudo apt install python3 python3-pip git -y
 `
 
 Puis cloner le projet :
-
 `bash
 git clone https://github.com/<ton-user>/The-MadDoG.tmdg.git
 cd The-MadDoG.tmdg
