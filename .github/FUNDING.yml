@@ -1,0 +1,14 @@
+# Options de financement pour un projet Python
+
+github: [ null ]        # GitHub Sponsors
+patreon: nyll           # Page Patreon
+ko_fi: null             # Ko-fi pour les dons rapides
+open_collective: null   # OpenCollective pour financement communautaire
+
+# Liens utiles pour le développement Python
+custom:
+  - "https://pypi.org/project/ton-projet"          # Page PyPI du projet
+  - "https://docs.python.org/3/"                   # Documentation Python officielle
+  - "https://packaging.python.org/"                # Guide packaging Python
+  - "https://peps.python.org/"                     # PEPs (standards Python)
+  - "https://your-website-or-docs.com"             # Documentation de ton projet
